@@ -1,0 +1,15 @@
+{
+  "name": "react-native-slide-bottomsheet",
+  "version": "1.0.4",
+  "description": "React Native Slide BottomSheet is a customizable component for creating elegant bottom sheets in your React Native applications. It provides a great user experience with smooth animations and flexible height options.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vishnu Chandra MC",
+  "license": "ISC",
+  "peerDependencies": {
+    "react": "18.1.0",
+    "react-native": "0.70.6"
+  }
+}
