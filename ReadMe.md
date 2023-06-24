@@ -12,7 +12,7 @@ React Native Slide BottomSheet is a customizable component for creating elegant 
 - Event callbacks for closing the bottom sheet and handling backdrop press.
 
 ## Example
-<img src="https://github.com/vishnuchandramc/react-native-slide-bottomsheet/assets/43258677/16192a3a-688d-400d-bc80-d61ef2037ce0" alt="Image" width="400" height="844" />
+<img src="https://github.com/vishnuchandramc/react-native-slide-bottomsheet/assets/43258677/16192a3a-688d-400d-bc80-d61ef2037ce0" alt="Image" width="400" height="848" />
 
 ## Installation
 
