@@ -8,11 +8,11 @@ React Native Slide BottomSheet is a customizable component for creating elegant 
 - Support for scrollable content within the bottom sheet.
 - Configurable backdrop with adjustable opacity and color.
 - Optional handle bar for easy interaction.
-- Responsive height options, including fixed height and percentage-based height.
+- Responsive height options, including fixed height and percentage-based height. 
 - Event callbacks for closing the bottom sheet and handling backdrop press.
 
 ## Example
-![bottomsheet](https://github.com/vishnuchandramc/react-native-slide-bottomsheet/assets/43258677/16192a3a-688d-400d-bc80-d61ef2037ce0)
+![bottomsheet](https://github.com/vishnuchandramc/react-native-slide-bottomsheet/assets/43258677/16192a3a-688d-400d-bc80-d61ef2037ce0 =250x250)
 
 ## Installation
 
