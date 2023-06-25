@@ -16,7 +16,7 @@ React Native Slide BottomSheet is a customizable component for creating elegant 
 
 ## Installation
 
-You can install the React Native BottomSheet package using npm or yarn:
+You can install package using npm or yarn:
 
 ```bash
 npm install react-native-slide-bottomsheet
@@ -40,7 +40,7 @@ import BottomSheet from "react-native-slide-bottomsheet";
 const App = () => {
   return (
     <View>
-      <Text>Content above the bottom sheet</Text>
+      <Text>React Native Slide Bottomsheet</Text>
       <BottomSheet
         visible={true}
         onClose={() => console.log("Bottom sheet closed")}
@@ -98,4 +98,4 @@ Contributions are welcome! If you have any ideas, suggestions, or bug reports, p
 
 ## License
 
-This project is licensed under the GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007.
+This project is licensed under the GNU GENERAL PUBLIC LICENSE Version 3.
