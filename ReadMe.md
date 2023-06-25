@@ -14,7 +14,7 @@ React Native Slide BottomSheet is a customizable component for creating elegant 
 ## Example
 
 <img src="https://github.com/vishnuchandramc/react-native-slide-bottomsheet/assets/43258677/16192a3a-688d-400d-bc80-d61ef2037ce0" alt="Image" width="400" height="840" />
-https://github.com/vishnuchandramc/react-native-slide-bottomsheet/assets/43258677/5ac34300-2ab3-44d5-b820-dfe03f518007
+![rn-slide-bottomsheet](https://github.com/vishnuchandramc/react-native-slide-bottomsheet/assets/43258677/868572d0-3c97-4f06-85c4-e6468da1dbe9)
 
 
 
